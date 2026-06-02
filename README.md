@@ -81,6 +81,23 @@ There are ~800 occurrences of 'Statt' at the starts of the sentences. In the rem
 positions of the sentences, there are 115 occurrences of 'Statt' and ~33000 of 'statt'.
 So the estimate for 'Statt' is 115 + 800 * (115/33115) = 118, and not 115 + 800.
 
+# Results
+
+The distribution of the months on the wishlist is shown in the table below.
+
+| Months on List | Count | Percent | 
+| :---------- | :------: | :-----: |
+| (0, 1]      |      82  |   0.8   |
+| (1, 2]      |       3  |   0.0   |
+| (2, 3]      |     153  |   1.5   |
+| (3, 6]      |     663  |   6.5   |
+| (6, 12]     |     241  |   2.4   |
+| (12, 18]    |     265  |   2.6   |
+| (18, 24]    |     109  |   1.1   |
+| (24, 30]    |      46  |   0.4   |
+| >30         |    8671  |  84.7   |
+| Total       |   10233  | 100.0   |
+
 # Limitations
 - Only the frequency of the lemma is counted.
 - The frequency of requested phrases is not counted.
