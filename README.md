@@ -113,10 +113,12 @@ The distribution of the estimated frequency in the 10% Wikipedia samples is as f
 | [256, 512)   |   74  |   0.8 |
 | [512, 1024)  |   32  |   0.3 |
 | [1024, 2056) |   13  |   0.1 |
-| Missing      |  593  |    -  |
-Frequency is missing when requested entry contains a word boundary (space, hyphen, etc.).
+| Missing [a]  |  593  |    -  |
+
+[a] Frequency is missing when requested entry contains a word boundary (space, hyphen, etc.).
 
 The 100 most-frequent words are as follows:
+
 Platzierung
 Foundation
 Landesstraße
