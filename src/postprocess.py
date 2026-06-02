@@ -77,3 +77,19 @@ wl_df = wl_df.merge(df.drop(['section'], axis=1), on='headword',
 
 wl_df = wl_df.drop(['notdone'], axis=1)
 wl_df.to_csv(OUTPUT_FILE, sep='\t', quoting=csv.QUOTE_NONE, index=False)
+
+wl_df['freq'] = pd.to_numeric(wl_df['n_total_est'], errors='coerce')
+print(wl_df.freq.value_counts(dropna=False))
+wl_df['freq cat'] = pd.cut(wl_df.freq, [0, 1, 2, 4,8,16,32,64,128,256,512,1024,2056], right=False)
+print(wl_df['freq cat'].value_counts(dropna=False))
+
+counts = wl_df['freq cat'].value_counts(dropna=False).sort_index()
+
+# 2. Get percentages (relative frequency * 100)
+pcts = wl_df['freq cat'].value_counts(normalize=True) * 100
+
+# 3. Combine into a single table
+pd.options.display.float_format = '{:.1f}'.format
+freq_table = pd.DataFrame({'Count': counts, 'Percent': pcts})
+print(freq_table)
+print(f'Total           {len(wl_df)}')
