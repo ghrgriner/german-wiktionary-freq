@@ -5,7 +5,7 @@ in the 'wishlist' of the German-language Wiktionary™. The time
 each word has spent on the wishlist is also provided.
 
 The program is applied to all entries in the [wishlist](https://de.wiktionary.org/wiki/Wiktionary:Wunschliste),
-retrieved 31 May 2026. The corpus used for the frequency
+retrieved June 2, 2026. The corpus used for the frequency
 estimates was a 10% sample of the February 2022 extract of the
 German-language Wikipedia™ as created by Philip May, available
 for download at:
@@ -89,33 +89,34 @@ So the estimate for 'Statt' is 115 + 800 * (115/33115) = 118, and not 115 + 800.
 The distribution of the months on the wishlist is as follows:
 | Months on List | Count | Percent |
 | :---------- | :------: | :-----: |
-| 1      |      82  |   0.8   |
+| 1      |      81  |   0.8   |
 | 2      |       3  |   0.0   |
-| 3      |     153  |   1.5   |
-| (3, 6]      |     663  |   6.5   |
-| (6, 12]     |     241  |   2.4   |
-| (12, 18]    |     265  |   2.6   |
+| 3      |     149  |   1.5   |
+| (3, 6]      |     654  |   6.5   |
+| (6, 12]     |     239  |   2.4   |
+| (12, 18]    |     260  |   2.6   |
 | (18, 24]    |     109  |   1.1   |
-| (24, 30]    |      46  |   0.4   |
-| >30         |    8671  |  84.7   |
-| Total       |   10233  | 100.0   |
+| (24, 30]    |      46  |   0.5   |
+| >30         |    8593  |  84.8   |
+| Total       |   10134  | 100.0   |
 
 The distribution of the estimated frequency in the 10% Wikipedia sample is as follows:
 | Estimated Frequency | Count | Percent |
 | :-------  | :---: | :-----: |
-| 0       | 3981  |  41.3 |
-| 1       | 1073  |  11.1 |
-| [2, 4)       | 1077  |  11.2 |
-| [4, 8)       |  983  |  10.2 |
-| [8, 16)      |  881  |   9.1 |
-| [16, 32)     |  623  |   6.5 |
-| [32, 64)     |  470  |   4.9 |
-| [64, 128)    |  291  |   3.0 |
-| [128, 256)   |  142  |   1.5 |
+| 0       | 3949  |  41.3 |
+| 1       | 1061  |  11.1 |
+| [2, 4)       | 1069  |  11.2 |
+| [4, 8)       |  976  |  10.2 |
+| [8, 16)      |  878  |   9.2 |
+| [16, 32)     |  621  |   6.5 |
+| [32, 64)     |  469  |   4.9 |
+| [64, 128)    |  290  |   3.0 |
+| [128, 256)   |  138  |   1.4 |
 | [256, 512)   |   74  |   0.8 |
 | [512, 1024)  |   32  |   0.3 |
-| [1024, 2056) |   13  |   0.1 |
-| Missing [a]  |  593  |    -  |
+| [1024, 1841) |   13  |   0.1 |
+| Missing [a]  |  564  |    -  |
+| Total        |  10134 |    -  |
 
 [a] Frequency is missing when requested entry contains a word boundary (space, hyphen, etc.).
 
@@ -157,8 +158,8 @@ Hansa
 Lane
 Lane
 Staatsrat
-Ausgestaltung
 demgegenüber
+Ausgestaltung
 hiervon
 Titelgewinn
 Part
@@ -194,8 +195,8 @@ Heimmannschaft
 Investment
 Task
 Veranstaltungsort
-Einstufung
 Spezialisierung
+Einstufung
 Baukörper
 Ottomotor
 Commodore
@@ -223,7 +224,7 @@ Pyrmont
 Punktzahl
 .
 
-The estimated counts for these words range from 1841 to 283.
+The estimated counts for these words range from 1841 to 287.
 
 # Limitations
 - Only the frequency of the lemma is counted.

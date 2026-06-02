@@ -9,11 +9,9 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Abofalle	5		https://de.wiktionary.org/wiki/Abofalle	0	0	1	0	1	
 == Substantive ==	Abschiebedruck	14		https://de.wiktionary.org/wiki/Abschiebedruck	0	0	0	0	0	
 == Substantive ==	Abschlussbescheinigung	4		https://de.wiktionary.org/wiki/Abschlussbescheinigung	0	0	0	0	0	
-== Substantive ==	Ackerrain	5		https://de.wiktionary.org/wiki/Ackerrain	0	0	0	0	0	
 == Substantive ==	Aerophon	4		https://de.wiktionary.org/wiki/Aerophon	0	0	4	0	4	
 == Substantive ==	Affentanz	11		https://de.wiktionary.org/wiki/Affentanz	0	0	0	0	0	
 == Substantive ==	Afterwärts	36		https://de.wiktionary.org/wiki/Afterw%C3%A4rts	0	0	0	0	0	
-== Substantive ==	Agan	36		https://de.wiktionary.org/wiki/Agan	0	0	10	2	10	
 == Substantive ==	Agglomerieren	36		https://de.wiktionary.org/wiki/Agglomerieren	0	0	0	1	0	
 == Substantive ==	Agrarpilot	10		https://de.wiktionary.org/wiki/Agrarpilot	0	0	0	0	0	
 == Substantive ==	Agrasel	4		https://de.wiktionary.org/wiki/Agrasel	0	0	0	0	0	
@@ -36,7 +34,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Alleinunfall	14		https://de.wiktionary.org/wiki/Alleinunfall	0	0	1	0	1	
 == Substantive ==	Alleinvertretungsanspruch	36		https://de.wiktionary.org/wiki/Alleinvertretungsanspruch	0	0	16	0	16	
 == Substantive ==	Allererstes	36		https://de.wiktionary.org/wiki/Allererstes	0	0	0	10	0	
-== Substantive ==	Allerseelenzeit	4		https://de.wiktionary.org/wiki/Allerseelenzeit	0	0	0	0	0	
 == Substantive ==	Allgemeines Zoll- und Handelsabkommen	36		https://de.wiktionary.org/wiki/Allgemeines%20Zoll-%20und%20Handelsabkommen						
 == Substantive ==	Allosexualität	36		https://de.wiktionary.org/wiki/Allosexualit%C3%A4t	0	0	0	0	0	
 == Substantive ==	Allosterie	36		https://de.wiktionary.org/wiki/Allosterie	0	0	1	0	1	
@@ -262,7 +259,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Backerei	17		https://de.wiktionary.org/wiki/Backerei	0	0	0	0	0	
 == Substantive ==	Backwash-Effekt	4		https://de.wiktionary.org/wiki/Backwash-Effekt						
 == Substantive ==	Bäderschau	36		https://de.wiktionary.org/wiki/B%C3%A4derschau	0	0	0	0	0	
-== Substantive ==	Badtextilie	36		https://de.wiktionary.org/wiki/Badtextilie	0	0	0	0	0	
 == Substantive ==	Bagatellbetrag	36		https://de.wiktionary.org/wiki/Bagatellbetrag	0	0	0	0	0	
 == Substantive ==	Bagatellgrenze	36		https://de.wiktionary.org/wiki/Bagatellgrenze	0	0	7	0	7	
 == Substantive ==	Bahnhofsklatscher	36		https://de.wiktionary.org/wiki/Bahnhofsklatscher	0	0	0	0	0	
@@ -300,7 +296,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Basisgruppe	36		https://de.wiktionary.org/wiki/Basisgruppe	0	0	4	1	4	
 == Substantive ==	Basistunnel	36		https://de.wiktionary.org/wiki/Basistunnel	0	0	53	0	53	
 == Substantive ==	Bastardierung	36		https://de.wiktionary.org/wiki/Bastardierung	0	0	3	0	3	
-== Substantive ==	Bastelkleber	3		https://de.wiktionary.org/wiki/Bastelkleber	0	0	0	0	0	
 == Substantive ==	Basthut	36		https://de.wiktionary.org/wiki/Basthut	0	0	0	0	0	
 == Substantive ==	Batterietausch	36		https://de.wiktionary.org/wiki/Batterietausch	0	0	2	0	2	
 == Substantive ==	Bauchfell	36		https://de.wiktionary.org/wiki/Bauchfell	0	0	39	0	39	
@@ -321,7 +316,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Baumwollsamen	36		https://de.wiktionary.org/wiki/Baumwollsamen	0	0	1	0	1	
 == Substantive ==	Baumwollstaude	36		https://de.wiktionary.org/wiki/Baumwollstaude	0	0	0	0	0	
 == Substantive ==	Baumwollstrauch	36		https://de.wiktionary.org/wiki/Baumwollstrauch	0	0	0	0	0	
-== Substantive ==	Bauornament	36		https://de.wiktionary.org/wiki/Bauornament	0	0	1	0	1	
 == Substantive ==	Bauparzelle	36		https://de.wiktionary.org/wiki/Bauparzelle	0	0	2	0	2	
 == Substantive ==	Bauplanke	36		https://de.wiktionary.org/wiki/Bauplanke	0	0	0	0	0	
 == Substantive ==	Bayes'sches Netz	7		https://de.wiktionary.org/wiki/Bayes%27sches%20Netz						
@@ -356,7 +350,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Beharren	36		https://de.wiktionary.org/wiki/Beharren	0	0	38	16	38	
 == Substantive ==	Beharrung	36		https://de.wiktionary.org/wiki/Beharrung	0	0	3	0	3	
 == Substantive ==	Behauung	36		https://de.wiktionary.org/wiki/Behauung	0	0	0	0	0	
-== Substantive ==	Behüter	36		https://de.wiktionary.org/wiki/Beh%C3%BCter	0	0	1	0	1	
 == Substantive ==	Beimengung	36		https://de.wiktionary.org/wiki/Beimengung	0	0	13	0	13	
 == Substantive ==	Beingewand	36		https://de.wiktionary.org/wiki/Beingewand	0	0	1	0	1	
 == Substantive ==	Beischluss	36		https://de.wiktionary.org/wiki/Beischluss	0	0	0	0	0	
@@ -370,7 +363,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Belagerer	36		https://de.wiktionary.org/wiki/Belagerer	1	0	87	0	88	
 == Substantive ==	Belagerin	36		https://de.wiktionary.org/wiki/Belagerin	0	0	0	0	0	
 == Substantive ==	Belastungsprobe	36		https://de.wiktionary.org/wiki/Belastungsprobe	0	0	15	0	15	
-== Substantive ==	Belastungssituation	3		https://de.wiktionary.org/wiki/Belastungssituation	0	0	1	0	1	
 == Substantive ==	Belegart	36		https://de.wiktionary.org/wiki/Belegart	0	0	0	0	0	
 == Substantive ==	Bellicum	36		https://de.wiktionary.org/wiki/Bellicum	0	0	0	2	0	
 == Substantive ==	Bemalung	36		https://de.wiktionary.org/wiki/Bemalung	1	0	274	0	275	
@@ -387,24 +379,19 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Benutzerkonten-Information	36		https://de.wiktionary.org/wiki/Benutzerkonten-Information						
 == Substantive ==	Benutzerrechte	36		https://de.wiktionary.org/wiki/Benutzerrechte	0	0	3	0	3	
 == Substantive ==	Benzidinreaktion	36		https://de.wiktionary.org/wiki/Benzidinreaktion	0	0	0	0	0	
-== Substantive ==	Benzinbleigesetz	36		https://de.wiktionary.org/wiki/Benzinbleigesetz	0	0	0	0	0	
 == Substantive ==	Benzindunst	36		https://de.wiktionary.org/wiki/Benzindunst	0	0	0	0	0	
 == Substantive ==	Benzinfahrzeug	36		https://de.wiktionary.org/wiki/Benzinfahrzeug	0	0	0	0	0	
-== Substantive ==	Benzingewinnung	36		https://de.wiktionary.org/wiki/Benzingewinnung	0	0	0	0	0	
 == Substantive ==	Benzingutschein	36		https://de.wiktionary.org/wiki/Benzingutschein	0	0	0	0	0	
-== Substantive ==	Benzinhahn	36		https://de.wiktionary.org/wiki/Benzinhahn	0	0	1	0	1	
 == Substantive ==	Benzoyl	36		https://de.wiktionary.org/wiki/Benzoyl	0	0	3	0	3	
 == Substantive ==	Benzpyren	36		https://de.wiktionary.org/wiki/Benzpyren	0	0	3	0	3	
 == Substantive ==	Benzyl	36		https://de.wiktionary.org/wiki/Benzyl	1	0	5	1	6	
 == Substantive ==	Benzylgruppe	36		https://de.wiktionary.org/wiki/Benzylgruppe	0	0	3	0	3	
 == Substantive ==	Beratungsbedarf	3		https://de.wiktionary.org/wiki/Beratungsbedarf	0	0	4	0	4	
-== Substantive ==	Beratungsraum	4		https://de.wiktionary.org/wiki/Beratungsraum	0	0	2	0	2	
 == Substantive ==	Beratungsresistenz	5		https://de.wiktionary.org/wiki/Beratungsresistenz	0	0	0	0	0	
 == Substantive ==	Berchtoldstag	4		https://de.wiktionary.org/wiki/Berchtoldstag	0	0	4	0	4	
 == Substantive ==	Berechnungsgrundlage	4		https://de.wiktionary.org/wiki/Berechnungsgrundlage	3	0	17	0	20	
 == Substantive ==	Berechnungsoption	3		https://de.wiktionary.org/wiki/Berechnungsoption	0	0	0	0	0	
 == Substantive ==	Bereitung	13		https://de.wiktionary.org/wiki/Bereitung	0	0	9	0	9	
-== Substantive ==	Bergbahnhof	4		https://de.wiktionary.org/wiki/Bergbahnhof	0	0	2	0	2	
 == Substantive ==	Bergmann'sche Regel	36		https://de.wiktionary.org/wiki/Bergmann%27sche%20Regel						
 == Substantive ==	Bergmannsprämie	36		https://de.wiktionary.org/wiki/Bergmannspr%C3%A4mie	0	0	0	0	0	
 == Substantive ==	Bergmechaniker	36		https://de.wiktionary.org/wiki/Bergmechaniker	0	0	0	0	0	
@@ -436,7 +423,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Bergwanderung	36		https://de.wiktionary.org/wiki/Bergwanderung	0	0	26	0	26	
 == Substantive ==	Bergwasser	36		https://de.wiktionary.org/wiki/Bergwasser	0	0	6	0	6	
 == Substantive ==	Bergwasserspiegel	36		https://de.wiktionary.org/wiki/Bergwasserspiegel	0	0	0	0	0	
-== Substantive ==	Bergwerksbahnhof	4		https://de.wiktionary.org/wiki/Bergwerksbahnhof	0	0	0	0	0	
 == Substantive ==	Bergwerksbesitzkarte	36		https://de.wiktionary.org/wiki/Bergwerksbesitzkarte	0	0	0	0	0	
 == Substantive ==	Bergwerksfeld	36		https://de.wiktionary.org/wiki/Bergwerksfeld	0	0	2	0	2	
 == Substantive ==	Bergwesen	36		https://de.wiktionary.org/wiki/Bergwesen	0	0	8	0	8	
@@ -476,7 +462,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Beschwerdeschrift	36		https://de.wiktionary.org/wiki/Beschwerdeschrift	0	0	8	0	8	
 == Substantive ==	Beschwichtigung	36		https://de.wiktionary.org/wiki/Beschwichtigung	0	0	12	0	12	
 == Substantive ==	Besenbeiz	13		https://de.wiktionary.org/wiki/Besenbeiz	0	0	0	0	0	
-== Substantive ==	Besichtigungstermin	36		https://de.wiktionary.org/wiki/Besichtigungstermin	0	0	1	0	1	
 == Substantive ==	Besitzender	36		https://de.wiktionary.org/wiki/Besitzender	0	0	1	2	1	
 == Substantive ==	Besitzstand	36		https://de.wiktionary.org/wiki/Besitzstand	0	0	40	0	40	
 == Substantive ==	Besoldungsstruktur	36		https://de.wiktionary.org/wiki/Besoldungsstruktur	0	0	1	0	1	
@@ -547,7 +532,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Bidon	36		https://de.wiktionary.org/wiki/Bidon	0	0	1	0	1	
 == Substantive ==	Bidonville	36		https://de.wiktionary.org/wiki/Bidonville	0	0	3	0	3	
 == Substantive ==	Biedersinn	36		https://de.wiktionary.org/wiki/Biedersinn	0	0	0	0	0	
-== Substantive ==	Bierwampe	36		https://de.wiktionary.org/wiki/Bierwampe	0	0	0	0	0	
 == Substantive ==	Biflation	36		https://de.wiktionary.org/wiki/Biflation	0	0	0	0	0	
 == Substantive ==	Big Data	36		https://de.wiktionary.org/wiki/Big%20Data						
 == Substantive ==	Big Push	36		https://de.wiktionary.org/wiki/Big%20Push						
@@ -566,12 +550,9 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Bildgewalt	36		https://de.wiktionary.org/wiki/Bildgewalt	0	0	2	0	2	
 == Substantive ==	Bildsäule	36		https://de.wiktionary.org/wiki/Bilds%C3%A4ule	0	0	15	0	15	
 == Substantive ==	Bildschirmbuch	36		https://de.wiktionary.org/wiki/Bildschirmbuch	0	0	0	0	0	
-== Substantive ==	Bildschirmlicht	36		https://de.wiktionary.org/wiki/Bildschirmlicht	0	0	0	0	0	
 == Substantive ==	Bildschirmspiel	36		https://de.wiktionary.org/wiki/Bildschirmspiel	0	0	0	0	0	
-== Substantive ==	Bildschirmzeit	36		https://de.wiktionary.org/wiki/Bildschirmzeit	0	0	3	0	3	
 == Substantive ==	Bildungsanstalt	36		https://de.wiktionary.org/wiki/Bildungsanstalt	0	0	70	0	70	
 == Substantive ==	Bildungsleiter	36		https://de.wiktionary.org/wiki/Bildungsleiter	0	0	1	0	1	
-== Substantive ==	Bilharziose	36		https://de.wiktionary.org/wiki/Bilharziose	0	0	8	0	8	
 == Substantive ==	Bilinearform	36		https://de.wiktionary.org/wiki/Bilinearform	0	0	28	0	28	
 == Substantive ==	Bilis	36		https://de.wiktionary.org/wiki/Bilis	0	0	4	1	4	
 == Substantive ==	Billigflaggenschiff	14		https://de.wiktionary.org/wiki/Billigflaggenschiff	0	0	0	0	0	
@@ -609,7 +590,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Blasenbildung	36		https://de.wiktionary.org/wiki/Blasenbildung	0	0	25	0	25	
 == Substantive ==	Blasiertheit	36		https://de.wiktionary.org/wiki/Blasiertheit	0	0	2	0	2	
 == Substantive ==	Blasmaus	4		https://de.wiktionary.org/wiki/Blasmaus	0	0	0	0	0	
-== Substantive ==	Blasphemist	36		https://de.wiktionary.org/wiki/Blasphemist	0	0	0	0	0	
 == Substantive ==	Blassgesicht	36		https://de.wiktionary.org/wiki/Blassgesicht	0	0	0	0	0	
 == Substantive ==	Blattoption	3		https://de.wiktionary.org/wiki/Blattoption	0	0	0	0	0	
 == Substantive ==	Blaue Banane	4		https://de.wiktionary.org/wiki/Blaue%20Banane						
@@ -629,7 +609,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Blindmensch	36		https://de.wiktionary.org/wiki/Blindmensch	0	0	0	0	0	
 == Substantive ==	Blitzmarker	3		https://de.wiktionary.org/wiki/Blitzmarker	0	0	0	0	0	
 == Substantive ==	Blitzvorschau	3		https://de.wiktionary.org/wiki/Blitzvorschau	0	0	0	0	0	
-== Substantive ==	Blockblatt	3		https://de.wiktionary.org/wiki/Blockblatt	0	0	0	0	0	
 == Substantive ==	Blocker	36		https://de.wiktionary.org/wiki/Blocker	1	0	44	3	45	
 == Substantive ==	Blockwoche	36		https://de.wiktionary.org/wiki/Blockwoche	0	0	0	0	0	
 == Substantive ==	Blödmensch	36		https://de.wiktionary.org/wiki/Bl%C3%B6dmensch	0	0	0	0	0	
@@ -641,9 +620,7 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Blumenschau	36		https://de.wiktionary.org/wiki/Blumenschau	0	0	5	0	5	
 == Substantive ==	Blütenstandsgemüse	36		https://de.wiktionary.org/wiki/Bl%C3%BCtenstandsgem%C3%BCse	0	0	0	0	0	
 == Substantive ==	Blütentraum	36		https://de.wiktionary.org/wiki/Bl%C3%BCtentraum	0	0	0	0	0	
-== Substantive ==	Blutpenis	36		https://de.wiktionary.org/wiki/Blutpenis	0	0	0	0	0	
 == Substantive ==	Blutstillung	36		https://de.wiktionary.org/wiki/Blutstillung	0	0	10	0	10	
-== Substantive ==	Blutzuckermessung	17		https://de.wiktionary.org/wiki/Blutzuckermessung	0	0	2	0	2	
 == Substantive ==	BMX-Rad	36		https://de.wiktionary.org/wiki/BMX-Rad						
 == Substantive ==	Board	36		https://de.wiktionary.org/wiki/Board	10	0	1311	36	1321	
 == Substantive ==	Boardingschool	36		https://de.wiktionary.org/wiki/Boardingschool	0	0	0	0	0	
@@ -685,7 +662,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Bonton	36		https://de.wiktionary.org/wiki/Bonton	0	0	0	0	0	
 == Substantive ==	Bonuspunkt	36		https://de.wiktionary.org/wiki/Bonuspunkt	0	0	28	0	28	
 == Substantive ==	Booklet	36		https://de.wiktionary.org/wiki/Booklet	5	0	135	3	140	
-== Substantive ==	Bootsverleih	36		https://de.wiktionary.org/wiki/Bootsverleih	0	0	21	0	21	
 == Substantive ==	Bördelform	36		https://de.wiktionary.org/wiki/B%C3%B6rdelform	0	0	0	0	0	
 == Substantive ==	Bornholmer Krankheit	4		https://de.wiktionary.org/wiki/Bornholmer%20Krankheit						
 == Substantive ==	Bornholm-Krankheit	4		https://de.wiktionary.org/wiki/Bornholm-Krankheit						
@@ -697,13 +673,11 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Bourbone	36		https://de.wiktionary.org/wiki/Bourbone	0	0	2	0	2	
 == Substantive ==	Boxendach	36		https://de.wiktionary.org/wiki/Boxendach	0	0	0	0	0	
 == Substantive ==	Boxverband	36		https://de.wiktionary.org/wiki/Boxverband	0	0	7	0	7	
-== Substantive ==	Bristol-Stuhlformen-Skala	7		https://de.wiktionary.org/wiki/Bristol-Stuhlformen-Skala						
 == Substantive ==	Brötle	8		https://de.wiktionary.org/wiki/Br%C3%B6tle	0	0	0	0	0	
 == Substantive ==	Bundesstelle	36		https://de.wiktionary.org/wiki/Bundesstelle	1	0	22	0	23	
 == Substantive ==	Brägen	36		https://de.wiktionary.org/wiki/Br%C3%A4gen	0	0	0	0	0	
 == Substantive ==	Braker	36		https://de.wiktionary.org/wiki/Braker	1	0	15	0	16	
 == Substantive ==	Branding	36		https://de.wiktionary.org/wiki/Branding	2	0	69	2	71	
-== Substantive ==	Brandleger	36		https://de.wiktionary.org/wiki/Brandleger	0	0	1	0	1	
 == Substantive ==	Brandlegung	36		https://de.wiktionary.org/wiki/Brandlegung	0	0	8	0	8	
 == Substantive ==	Brandungshohlkehle	36		https://de.wiktionary.org/wiki/Brandungshohlkehle	0	0	0	0	0	
 == Substantive ==	Brange	36		https://de.wiktionary.org/wiki/Brange	0	0	0	0	0	
@@ -713,7 +687,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Bratröste	36		https://de.wiktionary.org/wiki/Bratr%C3%B6ste	0	0	0	0	0	
 == Substantive ==	Brauchtumstag	36		https://de.wiktionary.org/wiki/Brauchtumstag	0	0	0	0	0	
 == Substantive ==	Brauereiwagen	36		https://de.wiktionary.org/wiki/Brauereiwagen	0	0	1	0	1	
-== Substantive ==	Braunkohlebergwerk	36		https://de.wiktionary.org/wiki/Braunkohlebergwerk	0	0	5	0	5	
 == Substantive ==	Brauseschlauch	36		https://de.wiktionary.org/wiki/Brauseschlauch	0	0	0	0	0	
 == Substantive ==	Brausetablette	36		https://de.wiktionary.org/wiki/Brausetablette	0	0	1	0	1	
 == Substantive ==	Brautschau	36		https://de.wiktionary.org/wiki/Brautschau	0	0	10	0	10	
@@ -734,17 +707,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Brennhaar	7		https://de.wiktionary.org/wiki/Brennhaar	0	0	0	0	0	
 == Substantive ==	Brennofen	7		https://de.wiktionary.org/wiki/Brennofen	0	0	35	0	35	
 == Substantive ==	Brennstelle	7		https://de.wiktionary.org/wiki/Brennstelle	0	0	0	0	0	
-== Substantive ==	Brexit-Abkommen	36		https://de.wiktionary.org/wiki/Brexit-Abkommen						
-== Substantive ==	Brexit-Anhänger	36		https://de.wiktionary.org/wiki/Brexit-Anh%C3%A4nger						
-== Substantive ==	Brexit-Aufschub	36		https://de.wiktionary.org/wiki/Brexit-Aufschub						
-== Substantive ==	Brexit-Datum	36		https://de.wiktionary.org/wiki/Brexit-Datum						
-== Substantive ==	Brexit-Deal	36		https://de.wiktionary.org/wiki/Brexit-Deal						
-== Substantive ==	Brexit-Einigung	36		https://de.wiktionary.org/wiki/Brexit-Einigung						
-== Substantive ==	Brexit-Gegner	36		https://de.wiktionary.org/wiki/Brexit-Gegner						
-== Substantive ==	Brexit-Gesetz	36		https://de.wiktionary.org/wiki/Brexit-Gesetz						
-== Substantive ==	Brexit-Hardliner	36		https://de.wiktionary.org/wiki/Brexit-Hardliner						
-== Substantive ==	Brexit-Verschiebung	36		https://de.wiktionary.org/wiki/Brexit-Verschiebung						
-== Substantive ==	Brexit-Vertrag	36		https://de.wiktionary.org/wiki/Brexit-Vertrag						
 == Substantive ==	Brexit-Zeitpunkt	36		https://de.wiktionary.org/wiki/Brexit-Zeitpunkt						
 == Substantive ==	Briefaktion	36		https://de.wiktionary.org/wiki/Briefaktion	0	0	1	0	1	
 == Substantive ==	Briefing	36		https://de.wiktionary.org/wiki/Briefing	0	0	18	1	18	
@@ -760,12 +722,10 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Bromwasserstoffsäure	36		https://de.wiktionary.org/wiki/Bromwasserstoffs%C3%A4ure	0	0	12	0	12	
 == Substantive ==	Bronchoskop	36		https://de.wiktionary.org/wiki/Bronchoskop	0	0	2	0	2	
 == Substantive ==	Brötchenpresse	36		https://de.wiktionary.org/wiki/Br%C3%B6tchenpresse	0	0	0	0	0	
-== Substantive ==	Brotverdiener	36		https://de.wiktionary.org/wiki/Brotverdiener	0	0	2	0	2	
 == Substantive ==	Bruchdehnung	36		https://de.wiktionary.org/wiki/Bruchdehnung	0	0	8	0	8	
 == Substantive ==	Bruchfläche	36		https://de.wiktionary.org/wiki/Bruchfl%C3%A4che	0	0	7	0	7	
 == Substantive ==	Bruchkerbe	36		https://de.wiktionary.org/wiki/Bruchkerbe	0	0	2	0	2	
 == Substantive ==	Brüderlein	36		https://de.wiktionary.org/wiki/Br%C3%BCderlein	1	0	2	0	3	
-== Substantive ==	Brugg	36		https://de.wiktionary.org/wiki/Brugg	3	0	169	0	172	
 == Substantive ==	Brühgruppe	36		https://de.wiktionary.org/wiki/Br%C3%BChgruppe	0	0	2	0	2	
 == Substantive ==	Brunnenkranz	36		https://de.wiktionary.org/wiki/Brunnenkranz	0	0	0	0	0	
 == Substantive ==	Brustdrüse	36		https://de.wiktionary.org/wiki/Brustdr%C3%BCse	0	0	4	0	4	
@@ -870,7 +830,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Casus knacksus	36		https://de.wiktionary.org/wiki/Casus%20knacksus						
 == Substantive ==	Catinga	4		https://de.wiktionary.org/wiki/Catinga	0	0	0	2	0	
 == Substantive ==	CD-Cover	36		https://de.wiktionary.org/wiki/CD-Cover						
-== Substantive ==	CD-Laufwerk	36		https://de.wiktionary.org/wiki/CD-Laufwerk						
 == Substantive ==	cDNA	36		https://de.wiktionary.org/wiki/cDNA	0	0	1	19	19	
 == Substantive ==	CD-Wechsler	36		https://de.wiktionary.org/wiki/CD-Wechsler						
 == Substantive ==	Channel	36		https://de.wiktionary.org/wiki/Channel	6	0	825	18	831	
@@ -888,14 +847,12 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Chewinggum	7		https://de.wiktionary.org/wiki/Chewinggum	0	0	0	0	0	
 == Substantive ==	Chicha	4		https://de.wiktionary.org/wiki/Chicha	0	0	15	0	15	
 == Substantive ==	Chicken McNugget	36		https://de.wiktionary.org/wiki/Chicken%20McNugget						
-== Substantive ==	Chiffontuch	5		https://de.wiktionary.org/wiki/Chiffontuch	0	0	0	0	0	
 == Substantive ==	Chlorion	36		https://de.wiktionary.org/wiki/Chlorion	0	0	0	0	0	
 == Substantive ==	Chlorisotop	36		https://de.wiktionary.org/wiki/Chlorisotop	0	0	0	0	0	
 == Substantive ==	Chlorkern	36		https://de.wiktionary.org/wiki/Chlorkern	0	0	0	0	0	
 == Substantive ==	Chlorphenaminhydrogenmaleat	36		https://de.wiktionary.org/wiki/Chlorphenaminhydrogenmaleat	0	0	0	0	0	
 == Substantive ==	Cholo	36		https://de.wiktionary.org/wiki/Cholo	0	0	5	0	5	
 == Substantive ==	Choreomania	36		https://de.wiktionary.org/wiki/Choreomania	0	0	0	0	0	
-== Substantive ==	Chorgesang	17		https://de.wiktionary.org/wiki/Chorgesang	1	0	46	0	47	
 == Substantive ==	Chorklasse	4		https://de.wiktionary.org/wiki/Chorklasse	0	0	2	0	2	
 == Substantive ==	Chorschluss	36		https://de.wiktionary.org/wiki/Chorschluss	0	0	105	0	105	
 == Substantive ==	Chorstuhl	36		https://de.wiktionary.org/wiki/Chorstuhl	0	0	0	0	0	
@@ -909,7 +866,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Citrullin	36		https://de.wiktionary.org/wiki/Citrullin	1	0	3	0	4	
 == Substantive ==	Citybike	36		https://de.wiktionary.org/wiki/Citybike	0	0	3	0	3	
 == Substantive ==	Cladocera	7		https://de.wiktionary.org/wiki/Cladocera	0	0	1	0	1	
-== Substantive ==	Clearasil-Testgelände	4		https://de.wiktionary.org/wiki/Clearasil-Testgel%C3%A4nde						
 == Substantive ==	Cleverle	4		https://de.wiktionary.org/wiki/Cleverle	0	0	0	0	0	
 == Substantive ==	Clickjacking	7		https://de.wiktionary.org/wiki/Clickjacking	0	0	0	0	0	
 == Substantive ==	Clubwear	4		https://de.wiktionary.org/wiki/Clubwear	0	0	0	0	0	
@@ -921,7 +877,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Collegeblock	3		https://de.wiktionary.org/wiki/Collegeblock	0	0	0	0	0	
 == Substantive ==	Colonoskopie	36		https://de.wiktionary.org/wiki/Colonoskopie	0	0	0	0	0	
 == Substantive ==	Commodore	36		https://de.wiktionary.org/wiki/Commodore	15	0	326	0	341	
-== Substantive ==	Computermesse	36		https://de.wiktionary.org/wiki/Computermesse	0	0	4	0	4	
 == Substantive ==	Computersatz	36		https://de.wiktionary.org/wiki/Computersatz	0	0	3	0	3	
 == Substantive ==	Computertechnik	36		https://de.wiktionary.org/wiki/Computertechnik	1	0	65	0	66	
 == Substantive ==	Computerzeitalter	36		https://de.wiktionary.org/wiki/Computerzeitalter	0	0	3	0	3	
@@ -931,40 +886,21 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Contest	36		https://de.wiktionary.org/wiki/Contest	1	0	1068	1	1069	
 == Substantive ==	Converso	36		https://de.wiktionary.org/wiki/Converso	0	0	3	2	3	
 == Substantive ==	Copingstrategie	36		https://de.wiktionary.org/wiki/Copingstrategie	0	0	0	0	0	
-== Substantive ==	Corona-Ausgangssperre	36		https://de.wiktionary.org/wiki/Corona-Ausgangssperre						
-== Substantive ==	Corona-Ausnahmezustand	36		https://de.wiktionary.org/wiki/Corona-Ausnahmezustand						
-== Substantive ==	Corona-Drama	36		https://de.wiktionary.org/wiki/Corona-Drama						
-== Substantive ==	Corona-Epidemie	36		https://de.wiktionary.org/wiki/Corona-Epidemie						
-== Substantive ==	Corona-Geisterspiel	36		https://de.wiktionary.org/wiki/Corona-Geisterspiel						
-== Substantive ==	Corona-Grenzschließung	36		https://de.wiktionary.org/wiki/Corona-Grenzschlie%C3%9Fung						
 == Substantive ==	Corona-Hamsterkauf	36		https://de.wiktionary.org/wiki/Corona-Hamsterkauf						
-== Substantive ==	Corona-Hotspot	36		https://de.wiktionary.org/wiki/Corona-Hotspot						
-== Substantive ==	Corona-Hysterie	36		https://de.wiktionary.org/wiki/Corona-Hysterie						
-== Substantive ==	Coronaimpfung	36		https://de.wiktionary.org/wiki/Coronaimpfung	0	0	1	0	1	
-== Substantive ==	Corona-Infektion	36		https://de.wiktionary.org/wiki/Corona-Infektion						
-== Substantive ==	Corona-Katastrophe	36		https://de.wiktionary.org/wiki/Corona-Katastrophe						
-== Substantive ==	Corona-Krise	36		https://de.wiktionary.org/wiki/Corona-Krise						
-== Substantive ==	Corona-Maßnahme	36		https://de.wiktionary.org/wiki/Corona-Ma%C3%9Fnahme						
 == Substantive ==	Corona-Opfer	36		https://de.wiktionary.org/wiki/Corona-Opfer						
-== Substantive ==	Corona-Skeptiker	36		https://de.wiktionary.org/wiki/Corona-Skeptiker						
-== Substantive ==	Corona-Symptom	36		https://de.wiktionary.org/wiki/Corona-Symptom						
 == Substantive ==	Corona-Toter	36		https://de.wiktionary.org/wiki/Corona-Toter						
 == Substantive ==	Cosplay	4		https://de.wiktionary.org/wiki/Cosplay	3	0	25	0	28	
-== Substantive ==	Cosplayer	4		https://de.wiktionary.org/wiki/Cosplayer	0	0	5	0	5	
 == Substantive ==	Couchsurfing	36		https://de.wiktionary.org/wiki/Couchsurfing	0	0	3	0	3	
 == Substantive ==	Course-Rating	36		https://de.wiktionary.org/wiki/Course-Rating						
 == Substantive ==	Cover-up	36		https://de.wiktionary.org/wiki/Cover-up						
-== Substantive ==	Craving	36		https://de.wiktionary.org/wiki/Craving	1	0	7	0	8	
 == Substantive ==	Cross-Ticketing	4		https://de.wiktionary.org/wiki/Cross-Ticketing						
 == Substantive ==	Cubanit	36		https://de.wiktionary.org/wiki/Cubanit	0	0	4	0	4	
 == Substantive ==	Cuprum	36		https://de.wiktionary.org/wiki/Cuprum	0	0	2	0	2	
 == Substantive ==	Cyclamat	36		https://de.wiktionary.org/wiki/Cyclamat	2	0	8	0	10	
 == Substantive ==	Dacherker	36		https://de.wiktionary.org/wiki/Dacherker	0	0	10	0	10	
 == Substantive ==	Dachzimmerwohnung	4		https://de.wiktionary.org/wiki/Dachzimmerwohnung	0	0	0	0	0	
-== Substantive ==	Dämel	36		https://de.wiktionary.org/wiki/D%C3%A4mel	0	0	1	0	1	
 == Substantive ==	Damenkleid	36		https://de.wiktionary.org/wiki/Damenkleid	0	0	0	0	0	
 == Substantive ==	Damenschach	36		https://de.wiktionary.org/wiki/Damenschach	0	0	0	0	0	
-== Substantive ==	Damenslip	36		https://de.wiktionary.org/wiki/Damenslip	0	0	0	0	0	
 == Substantive ==	Dampfdom	36		https://de.wiktionary.org/wiki/Dampfdom	0	0	48	0	48	
 == Substantive ==	Dampfsauger	36		https://de.wiktionary.org/wiki/Dampfsauger	0	0	0	0	0	
 == Substantive ==	Dancehall	9		https://de.wiktionary.org/wiki/Dancehall	2	0	80	1	82	
@@ -1092,13 +1028,11 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Devolution	36		https://de.wiktionary.org/wiki/Devolution	0	0	9	0	9	
 == Substantive ==	Dezett	36		https://de.wiktionary.org/wiki/Dezett	0	0	0	0	0	
 == Substantive ==	Dezigramm	36		https://de.wiktionary.org/wiki/Dezigramm	0	0	0	0	0	
-== Substantive ==	Diabetes-Erkrankung	17		https://de.wiktionary.org/wiki/Diabetes-Erkrankung						
 == Substantive ==	Diacetyl	36		https://de.wiktionary.org/wiki/Diacetyl	0	0	5	0	5	
 == Substantive ==	Diadochenkämpfe	36		https://de.wiktionary.org/wiki/Diadochenk%C3%A4mpfe	0	0	0	0	0	
 == Substantive ==	Diagnostikum	36		https://de.wiktionary.org/wiki/Diagnostikum	0	0	4	0	4	
 == Substantive ==	Dialogform	36		https://de.wiktionary.org/wiki/Dialogform	0	0	20	0	20	
 == Substantive ==	Dialogizität	36		https://de.wiktionary.org/wiki/Dialogizit%C3%A4t	1	0	1	0	2	
-== Substantive ==	Diaschau	36		https://de.wiktionary.org/wiki/Diaschau	0	0	2	0	2	
 == Substantive ==	Diastematik	36		https://de.wiktionary.org/wiki/Diastematik	0	0	0	0	0	
 == Substantive ==	Dichroismus	36		https://de.wiktionary.org/wiki/Dichroismus	0	0	5	0	5	
 == Substantive ==	Dichromat	36		https://de.wiktionary.org/wiki/Dichromat	0	0	3	0	3	
@@ -1275,7 +1209,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Eheverbot	36		https://de.wiktionary.org/wiki/Eheverbot	0	0	3	0	3	
 == Substantive ==	Ehrengarde	36		https://de.wiktionary.org/wiki/Ehrengarde	0	0	10	0	10	
 == Substantive ==	Ehrensache	36		https://de.wiktionary.org/wiki/Ehrensache	1	0	7	0	8	
-== Substantive ==	Eibutter	4		https://de.wiktionary.org/wiki/Eibutter	0	0	0	0	0	
 == Substantive ==	Eichelloch	4		https://de.wiktionary.org/wiki/Eichelloch	0	0	0	0	0	
 == Substantive ==	Eichgesetz	36		https://de.wiktionary.org/wiki/Eichgesetz	1	0	3	0	4	
 == Substantive ==	Eichrecht	36		https://de.wiktionary.org/wiki/Eichrecht	0	0	0	0	0	
@@ -1323,7 +1256,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Einheitsstaat	36		https://de.wiktionary.org/wiki/Einheitsstaat	1	0	36	0	37	
 == Substantive ==	Einheitsübersetzung	36		https://de.wiktionary.org/wiki/Einheits%C3%BCbersetzung	0	0	34	0	34	
 == Substantive ==	Einkammernsystem	36		https://de.wiktionary.org/wiki/Einkammernsystem	0	0	0	0	0	
-== Substantive ==	Einkaufsnacht	36		https://de.wiktionary.org/wiki/Einkaufsnacht	0	0	1	0	1	
 == Substantive ==	Einkaufsstätte	36		https://de.wiktionary.org/wiki/Einkaufsst%C3%A4tte	0	0	1	0	1	
 == Substantive ==	Einkesselung	36		https://de.wiktionary.org/wiki/Einkesselung	0	0	51	0	51	
 == Substantive ==	Einkreisung	20		https://de.wiktionary.org/wiki/Einkreisung	0	0	22	0	22	
@@ -1359,7 +1291,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Einstellungssache	36		https://de.wiktionary.org/wiki/Einstellungssache	0	0	0	0	0	
 == Substantive ==	Einstrahlung	36		https://de.wiktionary.org/wiki/Einstrahlung	0	0	36	0	36	
 == Substantive ==	Einstufung	13		https://de.wiktionary.org/wiki/Einstufung	10	0	339	0	349	
-== Substantive ==	Eintagsfieber	36		https://de.wiktionary.org/wiki/Eintagsfieber	0	0	0	0	0	
 == Substantive ==	Eintragsheft	36		https://de.wiktionary.org/wiki/Eintragsheft	0	0	0	0	0	
 == Substantive ==	Eintragsseite	36		https://de.wiktionary.org/wiki/Eintragsseite	0	0	0	0	0	
 == Substantive ==	Eintreiber	36		https://de.wiktionary.org/wiki/Eintreiber	0	0	7	0	7	
@@ -1764,7 +1695,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Farbverlauf	36		https://de.wiktionary.org/wiki/Farbverlauf	0	0	9	0	9	
 == Substantive ==	Farfalle	4		https://de.wiktionary.org/wiki/Farfalle	0	0	0	0	0	
 == Substantive ==	Farrenstall	1		https://de.wiktionary.org/wiki/Farrenstall	0	0	3	0	3	
-== Substantive ==	Fasanenjäger	36		https://de.wiktionary.org/wiki/Fasanenj%C3%A4ger	0	0	2	0	2	
 == Substantive ==	Fasanenwärter	36		https://de.wiktionary.org/wiki/Fasanenw%C3%A4rter	0	0	0	0	0	
 == Substantive ==	Faschingssonntag	36		https://de.wiktionary.org/wiki/Faschingssonntag	0	0	2	0	2	
 == Substantive ==	Faschinierung	36		https://de.wiktionary.org/wiki/Faschinierung	0	0	0	0	0	
@@ -1956,7 +1886,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Fleischkäsweckle	1		https://de.wiktionary.org/wiki/Fleischk%C3%A4sweckle	0	0	0	0	0	
 == Substantive ==	Fleischklößchen	36		https://de.wiktionary.org/wiki/Fleischkl%C3%B6%C3%9Fchen	0	0	4	0	4	
 == Substantive ==	Fleischmütze	36		https://de.wiktionary.org/wiki/Fleischm%C3%BCtze	0	0	0	0	0	
-== Substantive ==	Fleischpenis	36		https://de.wiktionary.org/wiki/Fleischpenis	0	0	0	0	0	
 == Substantive ==	Fleischschicht	36		https://de.wiktionary.org/wiki/Fleischschicht	0	0	0	0	0	
 == Substantive ==	Fleischvogel	4		https://de.wiktionary.org/wiki/Fleischvogel	0	0	0	0	0	
 == Substantive ==	Fleppen	11		https://de.wiktionary.org/wiki/Fleppen	0	0	0	0	0	
@@ -3185,9 +3114,7 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Jugendtreff	1		https://de.wiktionary.org/wiki/Jugendtreff	0	0	26	0	26	
 == Substantive ==	Jump	9		https://de.wiktionary.org/wiki/Jump	7	1	272	8	279	
 == Substantive ==	Jumpdance	9		https://de.wiktionary.org/wiki/Jumpdance	0	0	0	0	0	
-== Substantive ==	Jumpstyle	9		https://de.wiktionary.org/wiki/Jumpstyle	1	0	5	0	6	
 == Substantive ==	Jumpsuit	9		https://de.wiktionary.org/wiki/Jumpsuit	0	0	0	0	0	
-== Substantive ==	Jungle	13		https://de.wiktionary.org/wiki/Jungle	4	0	159	8	163	
 == Substantive ==	Junk	36		https://de.wiktionary.org/wiki/Junk	3	0	37	3	40	
 == Substantive ==	Junkfilter	36		https://de.wiktionary.org/wiki/Junkfilter	0	0	0	0	0	
 == Substantive ==	Junta	36		https://de.wiktionary.org/wiki/Junta	5	0	165	1	170	
@@ -3489,7 +3416,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Kondensation	36		https://de.wiktionary.org/wiki/Kondensation	3	0	121	0	124	
 == Substantive ==	Kondominion	36		https://de.wiktionary.org/wiki/Kondominion	0	0	0	0	0	
 == Substantive ==	Konfektionierungsarbeit	4		https://de.wiktionary.org/wiki/Konfektionierungsarbeit	0	0	0	0	0	
-== Substantive ==	Konformist	36		https://de.wiktionary.org/wiki/Konformist	0	0	1	0	1	
 == Substantive ==	Konfuzianer	36		https://de.wiktionary.org/wiki/Konfuzianer	0	0	8	0	8	
 == Substantive ==	Kongruenzsatz	36		https://de.wiktionary.org/wiki/Kongruenzsatz	0	0	2	0	2	
 == Substantive ==	Königsbahnhof	4		https://de.wiktionary.org/wiki/K%C3%B6nigsbahnhof	0	0	0	0	0	
@@ -3733,7 +3659,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Küstenmeer	36		https://de.wiktionary.org/wiki/K%C3%BCstenmeer	0	0	10	0	10	
 == Substantive ==	Küstenschifffahrt	36		https://de.wiktionary.org/wiki/K%C3%BCstenschifffahrt	0	0	25	0	25	
 == Substantive ==	Kuttelfleck	1		https://de.wiktionary.org/wiki/Kuttelfleck	0	0	0	0	0	
-== Substantive ==	Kuttelsuppe	13		https://de.wiktionary.org/wiki/Kuttelsuppe	0	0	1	0	1	
 == Substantive ==	Kyat	36		https://de.wiktionary.org/wiki/Kyat	0	0	1	0	1	
 == Substantive ==	Kyberraum	36		https://de.wiktionary.org/wiki/Kyberraum	0	0	0	0	0	
 == Substantive ==	Lachflash	36		https://de.wiktionary.org/wiki/Lachflash	0	0	0	0	0	
@@ -4088,7 +4013,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Margin	36		https://de.wiktionary.org/wiki/Margin	0	1	20	531	20	
 == Substantive ==	Marienkonzert	4		https://de.wiktionary.org/wiki/Marienkonzert	0	0	0	0	0	
 == Substantive ==	Marienmusik	4		https://de.wiktionary.org/wiki/Marienmusik	0	0	0	0	0	
-== Substantive ==	Marineschiff	36		https://de.wiktionary.org/wiki/Marineschiff	0	0	4	0	4	
 == Substantive ==	Marionettenspieler	36		https://de.wiktionary.org/wiki/Marionettenspieler	0	0	7	0	7	
 == Substantive ==	Markenrand	36		https://de.wiktionary.org/wiki/Markenrand	0	0	1	0	1	
 == Substantive ==	Markenschutz	21		https://de.wiktionary.org/wiki/Markenschutz	2	0	17	0	19	
@@ -4221,7 +4145,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Metallguss	36		https://de.wiktionary.org/wiki/Metallguss	0	0	10	0	10	
 == Substantive ==	Metallismus	36		https://de.wiktionary.org/wiki/Metallismus	0	0	1	0	1	
 == Substantive ==	Metasystem	36		https://de.wiktionary.org/wiki/Metasystem	0	0	1	0	1	
-== Substantive ==	Metate	36		https://de.wiktionary.org/wiki/Metate	0	0	0	0	0	
 == Substantive ==	Methodensignatur	36		https://de.wiktionary.org/wiki/Methodensignatur	0	0	1	0	1	
 == Substantive ==	Methodiker	36		https://de.wiktionary.org/wiki/Methodiker	0	0	6	0	6	
 == Substantive ==	Methyl	36		https://de.wiktionary.org/wiki/Methyl	0	0	88	32	88	
@@ -5370,7 +5293,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Ratsal	36		https://de.wiktionary.org/wiki/Ratsal	0	0	0	0	0	
 == Substantive ==	Rätselweg	36		https://de.wiktionary.org/wiki/R%C3%A4tselweg	0	0	0	0	0	
 == Substantive ==	Ratspräsident	36		https://de.wiktionary.org/wiki/Ratspr%C3%A4sident	0	0	13	0	13	
-== Substantive ==	Rattan	36		https://de.wiktionary.org/wiki/Rattan	1	0	20	0	21	
 == Substantive ==	Rattanpalme	36		https://de.wiktionary.org/wiki/Rattanpalme	0	0	0	0	0	
 == Substantive ==	Rättchen	36		https://de.wiktionary.org/wiki/R%C3%A4ttchen	0	0	0	0	0	
 == Substantive ==	Raubadler	36		https://de.wiktionary.org/wiki/Raubadler	0	0	1	0	1	
@@ -5920,7 +5842,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Schlussspurt	36		https://de.wiktionary.org/wiki/Schlussspurt	0	0	23	0	23	
 == Substantive ==	Schlusstag	17		https://de.wiktionary.org/wiki/Schlusstag	0	0	40	0	40	
 == Substantive ==	Schlussziehung	36		https://de.wiktionary.org/wiki/Schlussziehung	0	0	0	0	0	
-== Substantive ==	Schmackofatz	1		https://de.wiktionary.org/wiki/Schmackofatz	0	0	0	0	0	
 == Substantive ==	Schmähsucht	36		https://de.wiktionary.org/wiki/Schm%C3%A4hsucht	0	0	1	0	1	
 == Substantive ==	Schmalspektrumantibiotikum	36		https://de.wiktionary.org/wiki/Schmalspektrumantibiotikum	0	0	0	0	0	
 == Substantive ==	Schmalspur	36		https://de.wiktionary.org/wiki/Schmalspur	0	0	95	0	95	
@@ -6204,7 +6125,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Seuchenverhütung	36		https://de.wiktionary.org/wiki/Seuchenverh%C3%BCtung	0	0	0	0	0	
 == Substantive ==	Sexer	36		https://de.wiktionary.org/wiki/Sexer	0	0	0	0	0	
 == Substantive ==	Sexfoto	36		https://de.wiktionary.org/wiki/Sexfoto	0	0	0	0	0	
-== Substantive ==	Sexheft	36		https://de.wiktionary.org/wiki/Sexheft	0	0	0	0	0	
 == Substantive ==	Sexidol	36		https://de.wiktionary.org/wiki/Sexidol	0	0	1	0	1	
 == Substantive ==	Sexist	36		https://de.wiktionary.org/wiki/Sexist	0	0	6	1	6	
 == Substantive ==	Sexlekt	36		https://de.wiktionary.org/wiki/Sexlekt	0	0	0	0	0	
@@ -6434,7 +6354,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Speicherbereich	36		https://de.wiktionary.org/wiki/Speicherbereich	0	0	29	0	29	
 == Substantive ==	Speicherplatte	36		https://de.wiktionary.org/wiki/Speicherplatte	0	0	0	0	0	
 == Substantive ==	Speicherseite	36		https://de.wiktionary.org/wiki/Speicherseite	0	0	6	0	6	
-== Substantive ==	Spektroskopie	36		https://de.wiktionary.org/wiki/Spektroskopie	4	0	192	0	196	
 == Substantive ==	Spendenaffäre	36		https://de.wiktionary.org/wiki/Spendenaff%C3%A4re	0	0	19	0	19	
 == Substantive ==	Spendenmüdigkeit	14		https://de.wiktionary.org/wiki/Spendenm%C3%BCdigkeit	0	0	0	0	0	
 == Substantive ==	Spermizid	36		https://de.wiktionary.org/wiki/Spermizid	1	0	3	1	4	
@@ -7703,7 +7622,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Warnstufe	36		https://de.wiktionary.org/wiki/Warnstufe	2	0	12	0	14	
 == Substantive ==	Warteliste	36		https://de.wiktionary.org/wiki/Warteliste	0	0	22	0	22	
 == Substantive ==	Wartungsarbeit	36		https://de.wiktionary.org/wiki/Wartungsarbeit	0	0	1	0	1	
-== Substantive ==	Warum	3		https://de.wiktionary.org/wiki/Warum	208	1	194	1205	223	
 == Substantive ==	Waschechtheit	36		https://de.wiktionary.org/wiki/Waschechtheit	0	0	0	0	0	
 == Substantive ==	Wäscherolle	36		https://de.wiktionary.org/wiki/W%C3%A4scherolle	0	0	1	0	1	
 == Substantive ==	Wäscheschleuder	36		https://de.wiktionary.org/wiki/W%C3%A4scheschleuder	0	0	2	0	2	
@@ -7753,7 +7671,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Substantive ==	Weichenzunge	36		https://de.wiktionary.org/wiki/Weichenzunge	0	0	1	0	1	
 == Substantive ==	Weichstrahltechnik	36		https://de.wiktionary.org/wiki/Weichstrahltechnik	0	0	0	0	0	
 == Substantive ==	Weihbischof	36		https://de.wiktionary.org/wiki/Weihbischof	15	0	1263	0	1278	
-== Substantive ==	Weihnachtsmuffel	36		https://de.wiktionary.org/wiki/Weihnachtsmuffel	0	0	2	0	2	
 == Substantive ==	Weißzuckerwert	36		https://de.wiktionary.org/wiki/Wei%C3%9Fzuckerwert	0	0	0	0	0	
 == Substantive ==	Weizenkleber	36		https://de.wiktionary.org/wiki/Weizenkleber	0	0	1	0	1	
 == Substantive ==	Welf	36		https://de.wiktionary.org/wiki/Welf	5	0	59	0	64	
@@ -8351,7 +8268,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Eigennamen, Toponyme ==	Lennox	13		https://de.wiktionary.org/wiki/Lennox	13	0	180	0	193	
 == Eigennamen, Toponyme ==	Libe	36		https://de.wiktionary.org/wiki/Libe	0	0	2	1	2	
 == Eigennamen, Toponyme ==	Libsche	36		https://de.wiktionary.org/wiki/Libsche	0	0	0	0	0	
-== Eigennamen, Toponyme ==	Liebenstein	36		https://de.wiktionary.org/wiki/Liebenstein	1	0	100	0	101	
 == Eigennamen, Toponyme ==	Liwie	36		https://de.wiktionary.org/wiki/Liwie	0	0	0	0	0	
 == Eigennamen, Toponyme ==	Lobenstein	36		https://de.wiktionary.org/wiki/Lobenstein	2	0	102	0	104	
 == Eigennamen, Toponyme ==	Louisiade-Archipel	3		https://de.wiktionary.org/wiki/Louisiade-Archipel						
@@ -9013,7 +8929,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Adjektive, Adverbien, Partizipien ==	brotfertig	13		https://de.wiktionary.org/wiki/brotfertig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	bumsvoll	28		https://de.wiktionary.org/wiki/bumsvoll	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	buntscheckig	36		https://de.wiktionary.org/wiki/buntscheckig	0	0	0	0	0	
-== Adjektive, Adverbien, Partizipien ==	cadmiumhaltig	36		https://de.wiktionary.org/wiki/cadmiumhaltig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	caesiumhaltig	36		https://de.wiktionary.org/wiki/caesiumhaltig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	calciumhaltig	36		https://de.wiktionary.org/wiki/calciumhaltig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	cäsiumhaltig	36		https://de.wiktionary.org/wiki/c%C3%A4siumhaltig	0	0	0	0	0	
@@ -9069,7 +8984,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Adjektive, Adverbien, Partizipien ==	dreizackig	36		https://de.wiktionary.org/wiki/dreizackig	0	0	0	2	2	
 == Adjektive, Adverbien, Partizipien ==	dreizeilig	36		https://de.wiktionary.org/wiki/dreizeilig	0	0	0	4	4	
 == Adjektive, Adverbien, Partizipien ==	dumpfig	36		https://de.wiktionary.org/wiki/dumpfig	0	0	0	0	0	
-== Adjektive, Adverbien, Partizipien ==	dunkelfarbig	36		https://de.wiktionary.org/wiki/dunkelfarbig	0	0	0	4	4	
 == Adjektive, Adverbien, Partizipien ==	dunkelweiß	36		https://de.wiktionary.org/wiki/dunkelwei%C3%9F	0	0	0	1	1	
 == Adjektive, Adverbien, Partizipien ==	effeminiert	36		https://de.wiktionary.org/wiki/effeminiert	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	egalweg	36		https://de.wiktionary.org/wiki/egalweg	0	0	0	0	0	
@@ -9148,7 +9062,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Adjektive, Adverbien, Partizipien ==	fluid	14	Y	https://de.wiktionary.org/wiki/fluid	2	0	91	10	10	
 == Adjektive, Adverbien, Partizipien ==	fluidal	14		https://de.wiktionary.org/wiki/fluidal	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	flummig	36		https://de.wiktionary.org/wiki/flummig	0	0	0	0	0	
-== Adjektive, Adverbien, Partizipien ==	fluorhaltig	36		https://de.wiktionary.org/wiki/fluorhaltig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	folgenderweise	36		https://de.wiktionary.org/wiki/folgenderweise	0	0	0	5	5	
 == Adjektive, Adverbien, Partizipien ==	folkloristisch	36		https://de.wiktionary.org/wiki/folkloristisch	0	0	0	16	16	
 == Adjektive, Adverbien, Partizipien ==	follikular	36		https://de.wiktionary.org/wiki/follikular	0	0	0	0	0	
@@ -9334,8 +9247,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Adjektive, Adverbien, Partizipien ==	junktional	36		https://de.wiktionary.org/wiki/junktional	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	justitiabel	36		https://de.wiktionary.org/wiki/justitiabel	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	kachektisch	36		https://de.wiktionary.org/wiki/kachektisch	0	0	0	0	0	
-== Adjektive, Adverbien, Partizipien ==	kadmiumhaltig	36		https://de.wiktionary.org/wiki/kadmiumhaltig	0	0	0	0	0	
-== Adjektive, Adverbien, Partizipien ==	kaliumhaltig	36		https://de.wiktionary.org/wiki/kaliumhaltig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	kalkarm	36		https://de.wiktionary.org/wiki/kalkarm	0	0	0	2	2	
 == Adjektive, Adverbien, Partizipien ==	kalkreich	36		https://de.wiktionary.org/wiki/kalkreich	0	0	0	7	7	
 == Adjektive, Adverbien, Partizipien ==	kalorienreduziert	36		https://de.wiktionary.org/wiki/kalorienreduziert	0	0	0	0	0	
@@ -9415,7 +9326,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Adjektive, Adverbien, Partizipien ==	lichtscheu	36		https://de.wiktionary.org/wiki/lichtscheu	0	0	3	4	4	
 == Adjektive, Adverbien, Partizipien ==	linksstehend	36		https://de.wiktionary.org/wiki/linksstehend	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	lipolytisch	36		https://de.wiktionary.org/wiki/lipolytisch	0	0	0	0	0	
-== Adjektive, Adverbien, Partizipien ==	lithiumhaltig	36		https://de.wiktionary.org/wiki/lithiumhaltig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	lokomotorisch	36		https://de.wiktionary.org/wiki/lokomotorisch	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	luderig	8		https://de.wiktionary.org/wiki/luderig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	luftgetrocknet	10		https://de.wiktionary.org/wiki/luftgetrocknet	0	0	0	3	3	
@@ -9426,7 +9336,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Adjektive, Adverbien, Partizipien ==	machistisch	36		https://de.wiktionary.org/wiki/machistisch	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	machoid	36		https://de.wiktionary.org/wiki/machoid	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	magenta	36		https://de.wiktionary.org/wiki/magenta	6	0	78	10	11	
-== Adjektive, Adverbien, Partizipien ==	magnesiumhaltig	36		https://de.wiktionary.org/wiki/magnesiumhaltig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	maladaptiv	6		https://de.wiktionary.org/wiki/maladaptiv	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	mannsdick	36		https://de.wiktionary.org/wiki/mannsdick	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	maschig	36		https://de.wiktionary.org/wiki/maschig	0	0	0	0	0	
@@ -9449,7 +9358,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Adjektive, Adverbien, Partizipien ==	mittelländisch	36		https://de.wiktionary.org/wiki/mittell%C3%A4ndisch	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	mittelmeerisch	36		https://de.wiktionary.org/wiki/mittelmeerisch	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	mode	36	Y	https://de.wiktionary.org/wiki/mode	17	0	1120	38	39	
-== Adjektive, Adverbien, Partizipien ==	molybdänhaltig	36		https://de.wiktionary.org/wiki/molybd%C3%A4nhaltig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	monogonal	36		https://de.wiktionary.org/wiki/monogonal	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	monoklin	36		https://de.wiktionary.org/wiki/monoklin	2	0	1	61	63	
 == Adjektive, Adverbien, Partizipien ==	monophon	5		https://de.wiktionary.org/wiki/monophon	0	0	0	3	3	
@@ -9472,7 +9380,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Adjektive, Adverbien, Partizipien ==	nahsichtig	36		https://de.wiktionary.org/wiki/nahsichtig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	narrisch	36		https://de.wiktionary.org/wiki/narrisch	0	0	0	2	2	
 == Adjektive, Adverbien, Partizipien ==	nässlich	36		https://de.wiktionary.org/wiki/n%C3%A4sslich	0	0	0	0	0	
-== Adjektive, Adverbien, Partizipien ==	natriumhaltig	36		https://de.wiktionary.org/wiki/natriumhaltig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	naturbasiert	3		https://de.wiktionary.org/wiki/naturbasiert	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	naturell	36		https://de.wiktionary.org/wiki/naturell	0	0	26	4	4	
 == Adjektive, Adverbien, Partizipien ==	nauf	36		https://de.wiktionary.org/wiki/nauf	0	0	0	0	0	
@@ -9510,7 +9417,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Adjektive, Adverbien, Partizipien ==	nichtslawisch	36		https://de.wiktionary.org/wiki/nichtslawisch	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	nichtspanisch	36		https://de.wiktionary.org/wiki/nichtspanisch	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	nichttürkisch	36		https://de.wiktionary.org/wiki/nichtt%C3%BCrkisch	0	0	0	0	0	
-== Adjektive, Adverbien, Partizipien ==	nickelhaltig	36		https://de.wiktionary.org/wiki/nickelhaltig	0	0	0	1	1	
 == Adjektive, Adverbien, Partizipien ==	nordostdeutsch	36		https://de.wiktionary.org/wiki/nordostdeutsch	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	nordrussisch	36		https://de.wiktionary.org/wiki/nordrussisch	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	normotop	36		https://de.wiktionary.org/wiki/normotop	0	0	0	0	0	
@@ -9647,7 +9553,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Adjektive, Adverbien, Partizipien ==	selbstverschuldet	34		https://de.wiktionary.org/wiki/selbstverschuldet	0	0	0	5	5	
 == Adjektive, Adverbien, Partizipien ==	selbstzerfleischend	36		https://de.wiktionary.org/wiki/selbstzerfleischend	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	selbstzweckhaft	36		https://de.wiktionary.org/wiki/selbstzweckhaft	0	0	0	6	6	
-== Adjektive, Adverbien, Partizipien ==	selenhaltig	36		https://de.wiktionary.org/wiki/selenhaltig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	sinnentleert	36		https://de.wiktionary.org/wiki/sinnentleert	0	0	0	3	3	
 == Adjektive, Adverbien, Partizipien ==	sinnerfüllt	36		https://de.wiktionary.org/wiki/sinnerf%C3%BCllt	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	sinnfroh	36		https://de.wiktionary.org/wiki/sinnfroh	0	0	0	0	0	
@@ -9706,9 +9611,7 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Adjektive, Adverbien, Partizipien ==	schuldhaft	36		https://de.wiktionary.org/wiki/schuldhaft	2	0	4	26	28	
 == Adjektive, Adverbien, Partizipien ==	schurkisch	28		https://de.wiktionary.org/wiki/schurkisch	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	schwäbisch-alemannisch	1		https://de.wiktionary.org/wiki/schw%C3%A4bisch-alemannisch						
-== Adjektive, Adverbien, Partizipien ==	schwedischsprachig	36		https://de.wiktionary.org/wiki/schwedischsprachig	0	0	0	6	6	
 == Adjektive, Adverbien, Partizipien ==	schweinefleischfrei	36		https://de.wiktionary.org/wiki/schweinefleischfrei	0	0	0	0	0	
-== Adjektive, Adverbien, Partizipien ==	schweinefleischhaltig	36		https://de.wiktionary.org/wiki/schweinefleischhaltig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	schweineförmig	36		https://de.wiktionary.org/wiki/schweinef%C3%B6rmig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	schwelgerisch	36		https://de.wiktionary.org/wiki/schwelgerisch	0	0	0	3	3	
 == Adjektive, Adverbien, Partizipien ==	schwelk	8		https://de.wiktionary.org/wiki/schwelk	0	0	0	0	0	
@@ -9736,7 +9639,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Adjektive, Adverbien, Partizipien ==	thuliumhaltig	36		https://de.wiktionary.org/wiki/thuliumhaltig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	tief gehend	36		https://de.wiktionary.org/wiki/tief%20gehend						
 == Adjektive, Adverbien, Partizipien ==	tiefstehend	36		https://de.wiktionary.org/wiki/tiefstehend	0	0	0	2	2	
-== Adjektive, Adverbien, Partizipien ==	titanhaltig	36		https://de.wiktionary.org/wiki/titanhaltig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	torgefährlich	36		https://de.wiktionary.org/wiki/torgef%C3%A4hrlich	0	0	0	24	24	
 == Adjektive, Adverbien, Partizipien ==	torpedoförmig	22		https://de.wiktionary.org/wiki/torpedof%C3%B6rmig	0	0	0	3	3	
 == Adjektive, Adverbien, Partizipien ==	torrentikol	36		https://de.wiktionary.org/wiki/torrentikol	0	0	0	0	0	
@@ -9850,7 +9752,6 @@ section	headword	months_on_list	german_missing	webpage	n_uc_s	n_lc_s	n_uc_r	n_lc
 == Adjektive, Adverbien, Partizipien ==	wohlgelitten	36		https://de.wiktionary.org/wiki/wohlgelitten	0	0	0	3	3	
 == Adjektive, Adverbien, Partizipien ==	wohlgeschnitter	36		https://de.wiktionary.org/wiki/wohlgeschnitter	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	wohlgleich	36		https://de.wiktionary.org/wiki/wohlgleich	0	0	0	0	0	
-== Adjektive, Adverbien, Partizipien ==	wolframhaltig	36		https://de.wiktionary.org/wiki/wolframhaltig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	wonnig	24		https://de.wiktionary.org/wiki/wonnig	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	wortklauberisch	14		https://de.wiktionary.org/wiki/wortklauberisch	0	0	0	0	0	
 == Adjektive, Adverbien, Partizipien ==	xenonhaltig	36		https://de.wiktionary.org/wiki/xenonhaltig	0	0	0	0	0	

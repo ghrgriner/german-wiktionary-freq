@@ -47,8 +47,8 @@ approximates an absolute disclaimer and waiver of all liability.
 
 The `headword` column in data/output/de_wishlist_freq.txt
 is the list of requested words or phrases in the `Wiktionary:Wunschliste`
-page on 31 May 2026. In particular, the revision used is:
-(1) https://de.wiktionary.org/w/index.php?title=Wiktionary:Wunschliste&oldid=10682634
+page on 02 Jun 2026. In particular, the revision used is:
+(1) https://de.wiktionary.org/w/index.php?title=Wiktionary:Wunschliste&oldid=10683750
 
 The headwords were extracted by limiting to lines between the lines
 '<!-- Beginn -->' and <!-- Ende -->', and extracting (non-greedily) the text

@@ -33,7 +33,10 @@ import numpy as np
 import csv
 import re
 
-curr_input_file = '20260531_oldid_10682634.txt'
+# Instead of using last version in May, use the below version from
+# June 2, because it is right after the bot removed completed pages
+# from the list.
+curr_input_file = '20260602_oldid_10683750.txt'
 CURR_YEAR = 2026
 CURR_MONTH = 5
 
