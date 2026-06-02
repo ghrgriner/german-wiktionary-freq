@@ -98,6 +98,24 @@ The distribution of the months on the wishlist is shown in the table below.
 | >30         |    8671  |  84.7   |
 | Total       |   10233  | 100.0   |
 
+The distribution of the estimated frequency in the 10% Wikipedia samples is as follows:
+| Frequency | Count | Percent |
+| :-------  | :---: | :-----: |
+| [0, 1)       | 3981  |  41.3 |
+| [1, 2)       | 1073  |  11.1 |
+| [2, 4)       | 1077  |  11.2 |
+| [4, 8)       |  983  |  10.2 |
+| [8, 16)      |  881  |   9.1 |
+| [16, 32)     |  623  |   6.5 |
+| [32, 64)     |  470  |   4.9 |
+| [64, 128)    |  291  |   3.0 |
+| [128, 256)   |  142  |   1.5 |
+| [256, 512)   |   74  |   0.8 |
+| [512, 1024)  |   32  |   0.3 |
+| [1024, 2056) |   13  |   0.1 |
+| Missing      |  593  |    -  |
+Frequency is missing when requested entry contains a word boundary (space, hyphen, etc.).
+
 The 100 most-frequent words are as follows:
 Platzierung
 Foundation
