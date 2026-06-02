@@ -39,11 +39,11 @@ The `dewk_wishlist_freq.txt` output file has the following variables:
   `<!-- Beginn -->` and `<!-- Ende -->`, and extracting (non-greedily) the text
    inside double brackets from lines starting with `*[[..]]`.
 - **months_on_list** - Number of consecutive months the word or phrase has been
-   on the wishlist, up to a maximum of 36 months. It is (presumably) unusual
-   for a word to go off and come back on the wishlist, but if it does, the counter
+   on the wishlist, up to a maximum of 36 months. It is probably unusual for a
+   word to go off and come back on the wishlist, but if it does, the counter
    restarts.
-- **german_missing** - 'Y' if the line in the wishlist contains the text
-   'Deutsch fehlt'. Otherwise, ''.
+- **german_missing** - `'Y'` if the line in the wishlist contains the text
+   'Deutsch fehlt'. Otherwise, `''`.
 - **webpage**: The name of the webpage for the headword. (This page might not
    exist. The title is quoted using `urllib.parse.quote(..., safe='')`.
 - **n_uc_s** - Number of times the upper-case headword appears in the first
@@ -59,8 +59,8 @@ The `dewk_wishlist_freq.txt` output file has the following variables:
    the sentence.
 - **n_total_est** - Estimated frequency correcting for capitalization. See below
    for details.
-- **div_zero** - 'Y' if the `n_` variables are not all 0 and `n_uc_r + n_lc_r == 0`.
-   Otherwise, zero.
+- **div_zero** - `'Y'` if the `n_` variables are not all 0 and `n_uc_r + n_lc_r == 0`.
+   Otherwise, `''`.
 
 # Methods
 
@@ -77,7 +77,7 @@ section). There are ~400 occurrences of 'Roger' in the first position but no
 no 'roger'). Therefore, the estimated frequency of 'roger' is 0.
 
 In the other direction, consider the requested word 'Statt' (in the noun section).
-There are ~800 occurrences of 'Statt' at the start of the sentence. In the remaining
+There are ~800 occurrences of 'Statt' at the starts of the sentences. In the remaining
 positions of the sentences, there are 115 occurrences of 'Statt' and ~33000 of 'statt'.
 So the estimate for 'Statt' is 115 + 800 * (115/33115) = 118, and not 115 + 800.
 
