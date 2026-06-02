@@ -16,9 +16,10 @@ is the output file [data/output/dewk\_wishlist\_freq.txt](https://github.com/ghr
 and the variables `headword`, `n_total_est`, and `months_on_list`.
 The variable `n_total_est` is an estimate that attempts to correct
 for the fact that the first word in sentences are capitalized.
-Otherwise, we only search for the lemma as entered in the wishlist
-(e.g., if 'Hund' and 'gehen' are in the wishlist, we do not automatically
-count occurrences of 'Hunde' or 'gegangen').
+Otherwise, we only search for the lemma as entered in the wishlist.
+That is, if 'Hund' and 'gehen' are in the wishlist, we do not
+count occurrences of 'Hunde' or 'gegangen' (unless they are elsewhere
+in the list).
 
 See [LICENSE.txt](LICENSE.txt) for complete license and attribution
 details for the corpus, the German-language Wiktionary, and this
@@ -44,8 +45,10 @@ The `dewk_wishlist_freq.txt` output file has the following variables:
    restarts.
 - **german_missing** - `'Y'` if the line in the wishlist contains the text
    'Deutsch fehlt'. Otherwise, `''`.
-- **webpage**: The name of the webpage for the headword. (This page might not
-   exist. The title is quoted using `urllib.parse.quote(..., safe='')`.
+- **webpage**: The name of the webpage for the headword. This page might not
+   exist. It's provided so that users who download the output file can easily
+   check if a page has been created since the output file was created. The
+   page title is quoted using `urllib.parse.quote(..., safe='')`.
 - **n_uc_s** - Number of times the upper-case headword appears in the first
    position in the sentence. The first position refers to index 1 (not 0)
    after splitting the line on word boundaries. The upper-case headword refers
@@ -230,6 +233,8 @@ The estimated counts for these words range from 1841 to 283.
 - There are probably better corpora to consider than 10% of German Wikipedia.
   We used this corpus as we had previously estimated the relative frequency
   of idioms in this corpus.
+- We tokenized the Wikipedia sentences on word boundaries, but it might be
+  better to not tokenize on a hyphen.
 - The programs were based on code we had written to estimate the frequency
   of idioms using regular expressions. Some of the variables and functions
   had their content changed without changing their (now out-of-date) names.
