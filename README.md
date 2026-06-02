@@ -98,6 +98,63 @@ The distribution of the months on the wishlist is shown in the table below.
 | >30         |    8671  |  84.7   |
 | Total       |   10233  | 100.0   |
 
+The 50 most-frequent words are as follows:
+headword
+Platzierung
+Foundation
+Landesstraße
+Austragung
+Game
+Dan
+Board
+Weihbischof
+Synchronisation
+Dekanat
+Area
+Special
+Contest
+YouTube
+Empfangsgebäude
+Bestehen
+Martha
+Finalrunde
+Track
+Radstand
+Herausgabe
+Einmündung
+Girl
+Channel
+Bond
+Konvent
+Ida
+Weltmeistertitel
+Betracht
+Springen
+Professional
+Hardcore
+Hansa
+Lane
+Lane
+Staatsrat
+Ausgestaltung
+demgegenüber
+hiervon
+Titelgewinn
+Part
+Petit
+Remix
+Endstand
+Kunsthalle
+Rundschau
+Erliegen
+Underground
+Sokrates
+Tell
+.
+
+The estimated counts for these words range from 1841 to 454.
+
+
 # Limitations
 - Only the frequency of the lemma is counted.
 - The frequency of requested phrases is not counted.
