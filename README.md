@@ -98,8 +98,7 @@ The distribution of the months on the wishlist is shown in the table below.
 | >30         |    8671  |  84.7   |
 | Total       |   10233  | 100.0   |
 
-The 50 most-frequent words are as follows:
-headword
+The 100 most-frequent words are as follows:
 Platzierung
 Foundation
 Landesstraße
@@ -150,9 +149,59 @@ Erliegen
 Underground
 Sokrates
 Tell
+Flash
+Haager
+Stadtverordnetenversammlung
+Take
+Fortführung
+Buddy
+Dora
+Mittelteil
+Ole
+hunderte
+Vernetzung
+tausende
+Eigenschreibweise
+Turbo
+Nachwahl
+Traineramt
+Elektro
+reflektiert
+hierin
+Heimmannschaft
+Investment
+Task
+Veranstaltungsort
+Einstufung
+Spezialisierung
+Baukörper
+Ottomotor
+Commodore
+Hürdenlauf
+Verkehrsverbund
+Motorleistung
+Blankenburg
+Querhaus
+Titelsong
+Hauptverwaltung
+Volkskammer
+Gothic
+Karlheinz
+Multi
+Site
+Volksbühne
+Rosario
+Torsten
+Gesamtwerk
+Bundesanstalt
+Ausgangslage
+vornherein
+Mittelklasse
+Pyrmont
+Punktzahl
 .
 
-The estimated counts for these words range from 1841 to 454.
+The estimated counts for these words range from 1841 to 283.
 
 
 # Limitations
