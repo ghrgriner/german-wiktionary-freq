@@ -68,24 +68,23 @@ The `dewk_wishlist_freq.txt` output file has the following variables:
 We try to avoid overestimating the frequency of requested non-nouns by adjusting
 the frequency of words in the first position of the sentence by assuming the
 relative proportion of lower-case and upper-case words in the first position
-would be the same as in the rest of the sentence, if not for the fact that 
+would be the same as in the rest of the sentence, if not for the fact that
 the first word in sentences are capitalized.
 
 For example, consider the requested word 'roger' (in the adjective/adverb/participle
-section). There are ~400 occurrences of 'Roger' in the first position but no
+section of the wishlist). There are ~400 occurrences of 'Roger' in the first position but no
 'roger' and about ~1800 occurrences of 'Roger' in the remaining positions (but also
 no 'roger'). Therefore, the estimated frequency of 'roger' is 0.
 
-In the other direction, consider the requested word 'Statt' (in the noun section).
-There are ~800 occurrences of 'Statt' at the starts of the sentences. In the remaining
+In the other direction, consider the requested word 'Statt' (in the noun section of the wishlist).
+There are ~800 occurrences of 'Statt' in the first position of the sentences. In the remaining
 positions of the sentences, there are 115 occurrences of 'Statt' and ~33000 of 'statt'.
 So the estimate for 'Statt' is 115 + 800 * (115/33115) = 118, and not 115 + 800.
 
 # Results
 
-The distribution of the months on the wishlist is shown in the table below.
-
-| Months on List | Count | Percent | 
+The distribution of the months on the wishlist is as follows:
+| Months on List | Count | Percent |
 | :---------- | :------: | :-----: |
 | (0, 1]      |      82  |   0.8   |
 | (1, 2]      |       3  |   0.0   |
@@ -98,8 +97,8 @@ The distribution of the months on the wishlist is shown in the table below.
 | >30         |    8671  |  84.7   |
 | Total       |   10233  | 100.0   |
 
-The distribution of the estimated frequency in the 10% Wikipedia samples is as follows:
-| Frequency | Count | Percent |
+The distribution of the estimated frequency in the 10% Wikipedia sample is as follows:
+| Estimated Frequency | Count | Percent |
 | :-------  | :---: | :-----: |
 | [0, 1)       | 3981  |  41.3 |
 | [1, 2)       | 1073  |  11.1 |
@@ -117,7 +116,7 @@ The distribution of the estimated frequency in the 10% Wikipedia samples is as f
 
 [a] Frequency is missing when requested entry contains a word boundary (space, hyphen, etc.).
 
-The 100 most-frequent words are as follows:
+The 100 most-frequent words in descending frequency are as follows:
 
 Platzierung
 Foundation
@@ -223,7 +222,6 @@ Punktzahl
 
 The estimated counts for these words range from 1841 to 283.
 
-
 # Limitations
 - Only the frequency of the lemma is counted.
 - The frequency of requested phrases is not counted.
@@ -235,6 +233,6 @@ The estimated counts for these words range from 1841 to 283.
 - The programs were based on code we had written to estimate the frequency
   of idioms using regular expressions. Some of the variables and functions
   had their content changed without changing their (now out-of-date) names.
-   
+
 # Run-Time
 The programs run quickly, probably in less than a minute.
