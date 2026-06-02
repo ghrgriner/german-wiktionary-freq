@@ -9,7 +9,7 @@ retrieved 31 May 2026. The corpus used for the frequency
 estimates was a 10% sample of the February 2022 extract of the
 German-language Wikipedia™ as created by Philip May, available
 for download at:
-    https://github.com/GermanT5/wikipedia2corpus
+    https://github.com/GermanT5/wikipedia2corpus.
 
 The data that is most likely of interest to repository visitors
 is the output file [data/output/dewk\_wishlist\_freq.txt](https://github.com/ghrgriner/german-wishlist/blob/main/data/output/dewk\_wishlist\_freq.txt)
@@ -35,8 +35,8 @@ Wikimedia Foundation.
 
 The `dewk_wishlist_freq.txt` output file has the following variables:
 - **section**: The section header from the wishlist. Section headers are
-  lines starting with '== '.
-- **headword**: Lines from the wishlist between the lines
+  lines starting with `'== '`.
+- **headword**: Headwords are obtained from lines in the wishlist between the lines
   `<!-- Beginn -->` and `<!-- Ende -->`, and extracting (non-greedily) the text
    inside double brackets from lines starting with `*[[..]]`.
 - **months_on_list** - Number of consecutive months the word or phrase has been
@@ -89,9 +89,9 @@ So the estimate for 'Statt' is 115 + 800 * (115/33115) = 118, and not 115 + 800.
 The distribution of the months on the wishlist is as follows:
 | Months on List | Count | Percent |
 | :---------- | :------: | :-----: |
-| (0, 1]      |      82  |   0.8   |
-| (1, 2]      |       3  |   0.0   |
-| (2, 3]      |     153  |   1.5   |
+| 1      |      82  |   0.8   |
+| 2      |       3  |   0.0   |
+| 3      |     153  |   1.5   |
 | (3, 6]      |     663  |   6.5   |
 | (6, 12]     |     241  |   2.4   |
 | (12, 18]    |     265  |   2.6   |
@@ -103,8 +103,8 @@ The distribution of the months on the wishlist is as follows:
 The distribution of the estimated frequency in the 10% Wikipedia sample is as follows:
 | Estimated Frequency | Count | Percent |
 | :-------  | :---: | :-----: |
-| [0, 1)       | 3981  |  41.3 |
-| [1, 2)       | 1073  |  11.1 |
+| 0       | 3981  |  41.3 |
+| 1       | 1073  |  11.1 |
 | [2, 4)       | 1077  |  11.2 |
 | [4, 8)       |  983  |  10.2 |
 | [8, 16)      |  881  |   9.1 |
