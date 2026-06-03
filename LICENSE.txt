@@ -135,6 +135,6 @@ The Content File Exports are available online at:
 
 The content file exports have names ending in '.xml.bz2'. The example programs
 that directly access these files are `src/extract_german_dewk.py` and
-`src/extract_german_enwk.py`. Other programs ending in `_enwk.py` process the
-data extracted from these files.
+`src/extract_german_enwk.py`. Other programs ending in `_enwk.py` or
+`_dewk.py` process the data extracted from these files.
 
