@@ -15,14 +15,7 @@
 #   along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #------------------------------------------------------------------------------
 
-'''Extract lemmas from German word forms from English Wiktionary
-
-I doubt this is exactly the algorithm used when one searches using
-the Wiktionary category, but it seems close enough. (Compare to:
-https://en.wiktionary.org/wiki/Category:German_lemmas.)
-
-It currently gives about 1k more lemmas than the Category search (~100k
-total lemmas), but it also uses an export file that is a month old.
+'''Extract lemmas from German word forms from German Wiktionary
 '''
 
 import pandas as pd
@@ -31,20 +24,15 @@ import csv
 
 #NROWS = 10000
 NROWS = None
-INPUT_FILE = '../data/int_output/german_words_enwk.txt'
-OUTPUT_FILE = '../data/int_output/german_lemmas_enwk.txt'
+INPUT_FILE = '../data/int_output/german_words_dewk.txt'
+OUTPUT_FILE = '../data/int_output/german_lemmas_dewk.txt'
 
 def not_lemma(x):
     return (
-            '{{verb form of|' in x or
-            '{{plural of|' in x or
-            '{{inflection of|' in x or
-            '{{infl of|' in x or
-            '{{de-adj form of|' in x or
-            '{{past participle of|' in x or
-            '{{present participle of|' in x or
-            '{{comparative of|' in x or
-            '{{superlative of|' in x or
+           '|Deklinierte Form|' in x or
+           '|Konjugierte Form|' in x or
+           '|Partizip II|' in x or
+           '|Partizip I|' in x or
             False
            )
 
@@ -54,15 +42,14 @@ def any_lemma(x):
             return 'Y'
     return 'N'
         
-def defn_to_list(x):
-    as_list = x.split(';# ')
+def pos_to_list(x):
+    as_list = x.split(';')
     return as_list
 
 df = pd.read_csv(INPUT_FILE, sep='\t', keep_default_na=False,
                  nrows=NROWS, quoting=csv.QUOTE_NONE)
-df['def_list'] = df.defn.map(defn_to_list)
-df['n_def'] = df.def_list.map(lambda x: len(x))
-df['lemma'] = df.def_list.map(any_lemma)
+df['pos_list'] = df.pos.map(pos_to_list)
+df['lemma'] = df.pos_list.map(any_lemma)
 
 #lemmas_df = df[~df.not_lemma]
 #print(df.n_def.value_counts())
@@ -70,7 +57,7 @@ df['lemma'] = df.def_list.map(any_lemma)
 
 lemmas_df = df.sort_values(['Word'])
 
-lemmas_df[['Word','lemma','pos','defn']].to_csv(OUTPUT_FILE, sep='\t',
-                                        quoting=csv.QUOTE_NONE)
+lemmas_df[['Word','lemma','pos']].to_csv(OUTPUT_FILE, sep='\t',
+                                 quoting=csv.QUOTE_NONE)
 
 #print(df)

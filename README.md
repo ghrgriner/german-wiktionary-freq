@@ -5,9 +5,13 @@ in the 'wishlist' of the German-language Wiktionary™. The time
 each word has spent on the wishlist is also provided.
 
 This project also provides example code for calculating frequency
-information for all German lemmas in the English-language Wiktionary
-that are not in the German-language Wiktionary. However, the output
-files from this second analysis are not uploaded to the repository.
+information for all German entries in either the English-language
+or German-language Wiktionary. Flags are also created indicating
+whether the entries are lemmas in either Wiktionary. It is then
+trivial to subset this list to get a list of lemmas in one Wiktionary
+and not the other, ordered by frequency. While code is provided, the
+output files from the analyses described in this paragraph are not
+uploaded to this repository.
 
 Returning to the 'wishlist' analysis, the [wishlist](https://de.wiktionary.org/wiki/Wiktionary:Wunschliste)
 used was retrieved June 2, 2026. The corpus used for the frequency
@@ -244,15 +248,11 @@ The estimated counts for these words range from 1841 to 287.
 - The programs were based on code we had written to estimate the frequency
   of idioms using regular expressions. Some of the variables and functions
   had their content changed without changing their (now out-of-date) names.
-- We should probably change the example programs for German lemmas not in
-  German-language Wiktionary so that the output is all German words in either
-  source with indicators which Wiktionary the word exists in and an indicator
-  whether the word is a lemma in each dictionary.
 
 # Run-Time
 The wishlist programs run in less than a minute.
 
-The programs for analysing lemmas in English-language Wiktionary and not
-in German-language Wiktionary run in about 9 minutes. The bulk of the
+The programs for analysing all German entries in the English-language
+or German-language Wiktionaries run in about 9 minutes. The bulk of the
 time is the extraction of the German words from the English-language
 Wiktionary export file.

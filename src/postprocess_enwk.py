@@ -31,7 +31,8 @@ import math
 #------------------------------------------------------------------------------
 INPUT_FILE = os.path.join('../data/int_output', 'enwk_counts_raw.txt')
 DEWK_INPUT_FILE = '../../dump_de/german_output.txt'
-OUTPUT_FILE = os.path.join('../data/int_output', 'enwk_not_in_dewk_freq.txt')
+OUTPUT_FILE = os.path.join('../data/int_output', 'endewk_words_freq.txt')
+LEMMA_OUTPUT_FILE = os.path.join('../data/int_output','endewk_lemmas_freq.txt')
 NROWS = None
 
 #------------------------------------------------------------------------------
@@ -70,14 +71,15 @@ df['notdone'] = df.headword.map(lambda x: len(re.split(r'\b', x)) > 3)
 for var in ['n_uc_s','n_lc_s','n_uc_r','n_lc_r','n_total_est','div_zero']:
     df[var] = np.where(df.notdone, '', df[var].astype(str))
 
-de_df = pd.read_csv(DEWK_INPUT_FILE, sep='\t', na_filter=False,
-                    usecols=['headword'],
-                    quoting=csv.QUOTE_NONE, nrows=NROWS)
-wl_df = df.merge(de_df[['headword']], on='headword', how='left', indicator=True)
-wl_df = wl_df[wl_df._merge == 'left_only']
-
-wl_df = wl_df.drop(['notdone','_merge'], axis=1)
-wl_df.to_csv(OUTPUT_FILE, sep='\t', quoting=csv.QUOTE_NONE, index=False)
+df.to_csv(OUTPUT_FILE, sep='\t', quoting=csv.QUOTE_NONE, index=False)
+wl_df = df[(df.lemma_en == 'Y') | (df.lemma_de == 'Y') ]
+wl_df.to_csv(LEMMA_OUTPUT_FILE, sep='\t', quoting=csv.QUOTE_NONE, index=False)
+#de_df = pd.read_csv(DEWK_INPUT_FILE, sep='\t', na_filter=False,
+#                    usecols=['headword'],
+#                    quoting=csv.QUOTE_NONE, nrows=NROWS)
+#wl_df = df.merge(de_df[['headword']], on='headword', how='left', indicator=True)
+#wl_df = wl_df[wl_df._merge == 'left_only']
+#wl_df = wl_df.drop(['notdone','_merge'], axis=1)
 
 wl_df['freq'] = pd.to_numeric(wl_df['n_total_est'], errors='coerce')
 print(wl_df.freq.value_counts(dropna=False))
