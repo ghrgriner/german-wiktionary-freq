@@ -9,8 +9,8 @@ in the src/ directory for the license.
 License and attribution information for files in input/ and output/ directories.
 -------------------------------------------------------------
 Files in the data/output/ directory are made available
-under the CC BY-SA 4.0 license. The same is true for the README.md file
-and documentation on the repository wiki.
+under the Creative Commons Attribution-Share-Alike 4.0 license (CC BY-SA 4.0).
+The same is true for the README.md file and documentation on the repository wiki.
 
 URL of a human-readable summary of the CC BY-SA 4.0 license:
     https://creativecommons.org/licenses/by-sa/4.0/.
@@ -125,4 +125,16 @@ EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LI
 TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR
 EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF
 LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+--------------
+
+There are example programs that use the MediaWiki Content File Exports. These
+file exports are provided (by MediaWiki) with a CC BY-SA 4.0 license.
+The Content File Exports are available online at:
+    https://dumps.wikimedia.org/other/mediawiki_content_history/readme.html
+
+The content file exports have names ending in '.xml.bz2'. The example programs
+that directly access these files are `src/extract_german_dewk.py` and
+`src/extract_german_enwk.py`. Other programs ending in `_enwk.py` process the
+data extracted from these files.
 

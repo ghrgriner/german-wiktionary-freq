@@ -4,8 +4,13 @@ This project assigns frequency estimates to most entries
 in the 'wishlist' of the German-language Wiktionary™. The time
 each word has spent on the wishlist is also provided.
 
-The program is applied to all entries in the [wishlist](https://de.wiktionary.org/wiki/Wiktionary:Wunschliste),
-retrieved June 2, 2026. The corpus used for the frequency
+This project also provides example code for calculating frequency
+information for all German lemmas in the English-language Wiktionary
+that are not in the German-language Wiktionary. However, the output
+files from this second analysis are not uploaded to the repository.
+
+Returning to the 'wishlist' analysis, the [wishlist](https://de.wiktionary.org/wiki/Wiktionary:Wunschliste),
+used was retrieved June 2, 2026. The corpus used for the frequency
 estimates was a 10% sample of the February 2022 extract of the
 German-language Wikipedia™ as created by Philip May, available
 for download at:
@@ -241,4 +246,9 @@ The estimated counts for these words range from 1841 to 287.
   had their content changed without changing their (now out-of-date) names.
 
 # Run-Time
-The programs run quickly, probably in less than a minute.
+The wishlist programs run in less than a minute.
+
+The programs for analysing lemmas in English-language Wiktionary and not
+in German-language Wiktionary run in about 9 minutes. The bulk of the
+time is the extraction of the German words from the English-language
+Wiktionary export file.
