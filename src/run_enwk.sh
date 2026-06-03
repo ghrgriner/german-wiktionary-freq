@@ -4,7 +4,8 @@
 
 #python3 extract_german_enwk.py   # ~7m run-time
 #python3 extract_german_dewk.py   # 1.5m run-time
-python3 limit_to_lemmas_enwk.py
+python3 flag_lemmas_enwk.py
+python3 flag_lemmas_dewk.py
 python3 reformat_enwk.py
 python3 run_counts_enwk.py
 python3 postprocess_enwk.py
