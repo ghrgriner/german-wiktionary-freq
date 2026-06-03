@@ -9,7 +9,7 @@ information for all German lemmas in the English-language Wiktionary
 that are not in the German-language Wiktionary. However, the output
 files from this second analysis are not uploaded to the repository.
 
-Returning to the 'wishlist' analysis, the [wishlist](https://de.wiktionary.org/wiki/Wiktionary:Wunschliste),
+Returning to the 'wishlist' analysis, the [wishlist](https://de.wiktionary.org/wiki/Wiktionary:Wunschliste)
 used was retrieved June 2, 2026. The corpus used for the frequency
 estimates was a 10% sample of the February 2022 extract of the
 German-language Wikipedia™ as created by Philip May, available
@@ -244,6 +244,10 @@ The estimated counts for these words range from 1841 to 287.
 - The programs were based on code we had written to estimate the frequency
   of idioms using regular expressions. Some of the variables and functions
   had their content changed without changing their (now out-of-date) names.
+- We should probably change the example programs for German lemmas not in
+  German-language Wiktionary so that the output is all German words in either
+  source with indicators which Wiktionary the word exists in and an indicator
+  whether the word is a lemma in each dictionary.
 
 # Run-Time
 The wishlist programs run in less than a minute.
