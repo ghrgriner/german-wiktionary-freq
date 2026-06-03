@@ -248,6 +248,11 @@ The estimated counts for these words range from 1841 to 287.
 - The programs were based on code we had written to estimate the frequency
   of idioms using regular expressions. Some of the variables and functions
   had their content changed without changing their (now out-of-date) names.
+- The analysis extracting all words from the English-language Wiktionary
+  is omitting the words 'um' and 'an' even though the pages exist. We
+  aren't sure if this is a problem with the export file or our program. Since
+  a new export file is expected very soon, we will wait until that is
+  available to debug.
 
 # Run-Time
 The wishlist programs run in less than a minute.
